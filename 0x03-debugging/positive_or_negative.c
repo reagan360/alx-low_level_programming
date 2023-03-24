@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * positive_or_negative - checks if number is postive or negative
- *
+ *@i: is the input
  * Return: always 0
  */
 void positive_or_negative(int i)
